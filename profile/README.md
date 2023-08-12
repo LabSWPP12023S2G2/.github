@@ -6,11 +6,11 @@ El equipo se encargará de obtener y refinar datos para entrenar una IA mediante
 
 ## 📸 Presentación del equipo
 
-Guadalupe Arroyo
+[Guadalupe Arroyo](https://github.com/Ashinoa)
 
-Manuel Avalos
+[Manuel Avalos](https://github.com/manuavalos-git)
 
-@Federico Emanuel Farias 
+[Federico Farias](https://github.com/fridriik)
 
 ## 🔍 Dónde encontrarnos
 
